@@ -1,4 +1,4 @@
-\# Node HTTP Server – Networking Demo
+# Node HTTP Server – Networking Demo
 
 
 
@@ -8,7 +8,7 @@ Built to illustrate request/response, routing, headers, and serving HTML + JSON.
 
 
 
-\## What it shows
+## What it shows
 
 \- HTTP server on top of TCP (HTTP/1.1 keep-alive by default)
 
